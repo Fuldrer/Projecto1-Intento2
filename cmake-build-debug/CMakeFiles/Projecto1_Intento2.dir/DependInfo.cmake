@@ -4,13 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Carlos/CLionProjects/Projecto1-Intento2/Bitmap.cpp" "C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/CMakeFiles/Projecto1_Intento2.dir/Bitmap.cpp.obj"
-  "C:/Users/Carlos/CLionProjects/Projecto1-Intento2/Data_Block.cpp" "C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/CMakeFiles/Projecto1_Intento2.dir/Data_Block.cpp.obj"
-  "C:/Users/Carlos/CLionProjects/Projecto1-Intento2/Disco.cpp" "C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/CMakeFiles/Projecto1_Intento2.dir/Disco.cpp.obj"
-  "C:/Users/Carlos/CLionProjects/Projecto1-Intento2/FAT.cpp" "C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/CMakeFiles/Projecto1_Intento2.dir/FAT.cpp.obj"
-  "C:/Users/Carlos/CLionProjects/Projecto1-Intento2/Menu.cpp" "C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/CMakeFiles/Projecto1_Intento2.dir/Menu.cpp.obj"
-  "C:/Users/Carlos/CLionProjects/Projecto1-Intento2/Metadata.cpp" "C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/CMakeFiles/Projecto1_Intento2.dir/Metadata.cpp.obj"
-  "C:/Users/Carlos/CLionProjects/Projecto1-Intento2/main.cpp" "C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/CMakeFiles/Projecto1_Intento2.dir/main.cpp.obj"
+  "C:/Users/Carlos/Documents/Github/Projecto1-Intento2/Bitmap.cpp" "C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/CMakeFiles/Projecto1_Intento2.dir/Bitmap.cpp.obj"
+  "C:/Users/Carlos/Documents/Github/Projecto1-Intento2/Data_Block.cpp" "C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/CMakeFiles/Projecto1_Intento2.dir/Data_Block.cpp.obj"
+  "C:/Users/Carlos/Documents/Github/Projecto1-Intento2/Disco.cpp" "C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/CMakeFiles/Projecto1_Intento2.dir/Disco.cpp.obj"
+  "C:/Users/Carlos/Documents/Github/Projecto1-Intento2/FAT.cpp" "C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/CMakeFiles/Projecto1_Intento2.dir/FAT.cpp.obj"
+  "C:/Users/Carlos/Documents/Github/Projecto1-Intento2/Menu.cpp" "C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/CMakeFiles/Projecto1_Intento2.dir/Menu.cpp.obj"
+  "C:/Users/Carlos/Documents/Github/Projecto1-Intento2/Metadata.cpp" "C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/CMakeFiles/Projecto1_Intento2.dir/Metadata.cpp.obj"
+  "C:/Users/Carlos/Documents/Github/Projecto1-Intento2/main.cpp" "C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/CMakeFiles/Projecto1_Intento2.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

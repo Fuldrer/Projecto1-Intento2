@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Projecto1_Intento2">
-				<Option output="C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/Projecto1_Intento2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug"/>
+				<Option output="C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/Projecto1_Intento2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -43,15 +43,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/4.9.3/../../../../mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Projecto1_Intento2"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Projecto1_Intento2"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Projecto1_Intento2/fast">
-				<Option output="C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/Projecto1_Intento2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug"/>
+				<Option output="C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/Projecto1_Intento2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -65,63 +65,63 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/4.9.3/../../../../mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Projecto1_Intento2/fast"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Projecto1_Intento2/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto1-Intento2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto1-Intento2/Bitmap.cpp">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto1-Intento2/Bitmap.cpp">
 			<Option target="Projecto1_Intento2"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto1-Intento2/Bitmap.h">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto1-Intento2/Bitmap.h">
 			<Option target="Projecto1_Intento2"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto1-Intento2/Data_Block.cpp">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto1-Intento2/Data_Block.cpp">
 			<Option target="Projecto1_Intento2"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto1-Intento2/Data_Block.h">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto1-Intento2/Data_Block.h">
 			<Option target="Projecto1_Intento2"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto1-Intento2/Disco.cpp">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto1-Intento2/Disco.cpp">
 			<Option target="Projecto1_Intento2"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto1-Intento2/Disco.h">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto1-Intento2/Disco.h">
 			<Option target="Projecto1_Intento2"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto1-Intento2/FAT.cpp">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto1-Intento2/FAT.cpp">
 			<Option target="Projecto1_Intento2"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto1-Intento2/FAT.h">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto1-Intento2/FAT.h">
 			<Option target="Projecto1_Intento2"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto1-Intento2/Menu.cpp">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto1-Intento2/Menu.cpp">
 			<Option target="Projecto1_Intento2"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto1-Intento2/Menu.h">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto1-Intento2/Menu.h">
 			<Option target="Projecto1_Intento2"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto1-Intento2/Metadata.cpp">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto1-Intento2/Metadata.cpp">
 			<Option target="Projecto1_Intento2"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto1-Intento2/Metadata.h">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto1-Intento2/Metadata.h">
 			<Option target="Projecto1_Intento2"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto1-Intento2/main.cpp">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto1-Intento2/main.cpp">
 			<Option target="Projecto1_Intento2"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto1-Intento2/CMakeLists.txt">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto1-Intento2/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

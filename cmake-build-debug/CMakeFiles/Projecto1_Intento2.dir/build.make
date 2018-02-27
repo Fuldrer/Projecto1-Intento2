@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2017.3.3\bin\cmake\bin\cmake.exe" -E remo
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Carlos\CLionProjects\Projecto1-Intento2
+CMAKE_SOURCE_DIR = C:\Users\Carlos\Documents\Github\Projecto1-Intento2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Carlos\CLionProjects\Projecto1-Intento2\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Carlos\Documents\Github\Projecto1-Intento2\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Projecto1_Intento2.dir/depend.make
@@ -58,16 +58,16 @@ include CMakeFiles/Projecto1_Intento2.dir/flags.make
 
 CMakeFiles/Projecto1_Intento2.dir/main.cpp.obj: CMakeFiles/Projecto1_Intento2.dir/flags.make
 CMakeFiles/Projecto1_Intento2.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\CLionProjects\Projecto1-Intento2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Projecto1_Intento2.dir/main.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto1_Intento2.dir\main.cpp.obj -c C:\Users\Carlos\CLionProjects\Projecto1-Intento2\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\Documents\Github\Projecto1-Intento2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Projecto1_Intento2.dir/main.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto1_Intento2.dir\main.cpp.obj -c C:\Users\Carlos\Documents\Github\Projecto1-Intento2\main.cpp
 
 CMakeFiles/Projecto1_Intento2.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Projecto1_Intento2.dir/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\CLionProjects\Projecto1-Intento2\main.cpp > CMakeFiles\Projecto1_Intento2.dir\main.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\Documents\Github\Projecto1-Intento2\main.cpp > CMakeFiles\Projecto1_Intento2.dir\main.cpp.i
 
 CMakeFiles/Projecto1_Intento2.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Projecto1_Intento2.dir/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\CLionProjects\Projecto1-Intento2\main.cpp -o CMakeFiles\Projecto1_Intento2.dir\main.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\Documents\Github\Projecto1-Intento2\main.cpp -o CMakeFiles\Projecto1_Intento2.dir\main.cpp.s
 
 CMakeFiles/Projecto1_Intento2.dir/main.cpp.obj.requires:
 
@@ -82,16 +82,16 @@ CMakeFiles/Projecto1_Intento2.dir/main.cpp.obj.provides.build: CMakeFiles/Projec
 
 CMakeFiles/Projecto1_Intento2.dir/Disco.cpp.obj: CMakeFiles/Projecto1_Intento2.dir/flags.make
 CMakeFiles/Projecto1_Intento2.dir/Disco.cpp.obj: ../Disco.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\CLionProjects\Projecto1-Intento2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Projecto1_Intento2.dir/Disco.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto1_Intento2.dir\Disco.cpp.obj -c C:\Users\Carlos\CLionProjects\Projecto1-Intento2\Disco.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\Documents\Github\Projecto1-Intento2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Projecto1_Intento2.dir/Disco.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto1_Intento2.dir\Disco.cpp.obj -c C:\Users\Carlos\Documents\Github\Projecto1-Intento2\Disco.cpp
 
 CMakeFiles/Projecto1_Intento2.dir/Disco.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Projecto1_Intento2.dir/Disco.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\CLionProjects\Projecto1-Intento2\Disco.cpp > CMakeFiles\Projecto1_Intento2.dir\Disco.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\Documents\Github\Projecto1-Intento2\Disco.cpp > CMakeFiles\Projecto1_Intento2.dir\Disco.cpp.i
 
 CMakeFiles/Projecto1_Intento2.dir/Disco.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Projecto1_Intento2.dir/Disco.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\CLionProjects\Projecto1-Intento2\Disco.cpp -o CMakeFiles\Projecto1_Intento2.dir\Disco.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\Documents\Github\Projecto1-Intento2\Disco.cpp -o CMakeFiles\Projecto1_Intento2.dir\Disco.cpp.s
 
 CMakeFiles/Projecto1_Intento2.dir/Disco.cpp.obj.requires:
 
@@ -106,16 +106,16 @@ CMakeFiles/Projecto1_Intento2.dir/Disco.cpp.obj.provides.build: CMakeFiles/Proje
 
 CMakeFiles/Projecto1_Intento2.dir/Menu.cpp.obj: CMakeFiles/Projecto1_Intento2.dir/flags.make
 CMakeFiles/Projecto1_Intento2.dir/Menu.cpp.obj: ../Menu.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\CLionProjects\Projecto1-Intento2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Projecto1_Intento2.dir/Menu.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto1_Intento2.dir\Menu.cpp.obj -c C:\Users\Carlos\CLionProjects\Projecto1-Intento2\Menu.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\Documents\Github\Projecto1-Intento2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Projecto1_Intento2.dir/Menu.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto1_Intento2.dir\Menu.cpp.obj -c C:\Users\Carlos\Documents\Github\Projecto1-Intento2\Menu.cpp
 
 CMakeFiles/Projecto1_Intento2.dir/Menu.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Projecto1_Intento2.dir/Menu.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\CLionProjects\Projecto1-Intento2\Menu.cpp > CMakeFiles\Projecto1_Intento2.dir\Menu.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\Documents\Github\Projecto1-Intento2\Menu.cpp > CMakeFiles\Projecto1_Intento2.dir\Menu.cpp.i
 
 CMakeFiles/Projecto1_Intento2.dir/Menu.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Projecto1_Intento2.dir/Menu.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\CLionProjects\Projecto1-Intento2\Menu.cpp -o CMakeFiles\Projecto1_Intento2.dir\Menu.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\Documents\Github\Projecto1-Intento2\Menu.cpp -o CMakeFiles\Projecto1_Intento2.dir\Menu.cpp.s
 
 CMakeFiles/Projecto1_Intento2.dir/Menu.cpp.obj.requires:
 
@@ -130,16 +130,16 @@ CMakeFiles/Projecto1_Intento2.dir/Menu.cpp.obj.provides.build: CMakeFiles/Projec
 
 CMakeFiles/Projecto1_Intento2.dir/Bitmap.cpp.obj: CMakeFiles/Projecto1_Intento2.dir/flags.make
 CMakeFiles/Projecto1_Intento2.dir/Bitmap.cpp.obj: ../Bitmap.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\CLionProjects\Projecto1-Intento2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Projecto1_Intento2.dir/Bitmap.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto1_Intento2.dir\Bitmap.cpp.obj -c C:\Users\Carlos\CLionProjects\Projecto1-Intento2\Bitmap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\Documents\Github\Projecto1-Intento2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Projecto1_Intento2.dir/Bitmap.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto1_Intento2.dir\Bitmap.cpp.obj -c C:\Users\Carlos\Documents\Github\Projecto1-Intento2\Bitmap.cpp
 
 CMakeFiles/Projecto1_Intento2.dir/Bitmap.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Projecto1_Intento2.dir/Bitmap.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\CLionProjects\Projecto1-Intento2\Bitmap.cpp > CMakeFiles\Projecto1_Intento2.dir\Bitmap.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\Documents\Github\Projecto1-Intento2\Bitmap.cpp > CMakeFiles\Projecto1_Intento2.dir\Bitmap.cpp.i
 
 CMakeFiles/Projecto1_Intento2.dir/Bitmap.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Projecto1_Intento2.dir/Bitmap.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\CLionProjects\Projecto1-Intento2\Bitmap.cpp -o CMakeFiles\Projecto1_Intento2.dir\Bitmap.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\Documents\Github\Projecto1-Intento2\Bitmap.cpp -o CMakeFiles\Projecto1_Intento2.dir\Bitmap.cpp.s
 
 CMakeFiles/Projecto1_Intento2.dir/Bitmap.cpp.obj.requires:
 
@@ -154,16 +154,16 @@ CMakeFiles/Projecto1_Intento2.dir/Bitmap.cpp.obj.provides.build: CMakeFiles/Proj
 
 CMakeFiles/Projecto1_Intento2.dir/FAT.cpp.obj: CMakeFiles/Projecto1_Intento2.dir/flags.make
 CMakeFiles/Projecto1_Intento2.dir/FAT.cpp.obj: ../FAT.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\CLionProjects\Projecto1-Intento2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Projecto1_Intento2.dir/FAT.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto1_Intento2.dir\FAT.cpp.obj -c C:\Users\Carlos\CLionProjects\Projecto1-Intento2\FAT.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\Documents\Github\Projecto1-Intento2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Projecto1_Intento2.dir/FAT.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto1_Intento2.dir\FAT.cpp.obj -c C:\Users\Carlos\Documents\Github\Projecto1-Intento2\FAT.cpp
 
 CMakeFiles/Projecto1_Intento2.dir/FAT.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Projecto1_Intento2.dir/FAT.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\CLionProjects\Projecto1-Intento2\FAT.cpp > CMakeFiles\Projecto1_Intento2.dir\FAT.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\Documents\Github\Projecto1-Intento2\FAT.cpp > CMakeFiles\Projecto1_Intento2.dir\FAT.cpp.i
 
 CMakeFiles/Projecto1_Intento2.dir/FAT.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Projecto1_Intento2.dir/FAT.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\CLionProjects\Projecto1-Intento2\FAT.cpp -o CMakeFiles\Projecto1_Intento2.dir\FAT.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\Documents\Github\Projecto1-Intento2\FAT.cpp -o CMakeFiles\Projecto1_Intento2.dir\FAT.cpp.s
 
 CMakeFiles/Projecto1_Intento2.dir/FAT.cpp.obj.requires:
 
@@ -178,16 +178,16 @@ CMakeFiles/Projecto1_Intento2.dir/FAT.cpp.obj.provides.build: CMakeFiles/Project
 
 CMakeFiles/Projecto1_Intento2.dir/Metadata.cpp.obj: CMakeFiles/Projecto1_Intento2.dir/flags.make
 CMakeFiles/Projecto1_Intento2.dir/Metadata.cpp.obj: ../Metadata.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\CLionProjects\Projecto1-Intento2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Projecto1_Intento2.dir/Metadata.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto1_Intento2.dir\Metadata.cpp.obj -c C:\Users\Carlos\CLionProjects\Projecto1-Intento2\Metadata.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\Documents\Github\Projecto1-Intento2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Projecto1_Intento2.dir/Metadata.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto1_Intento2.dir\Metadata.cpp.obj -c C:\Users\Carlos\Documents\Github\Projecto1-Intento2\Metadata.cpp
 
 CMakeFiles/Projecto1_Intento2.dir/Metadata.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Projecto1_Intento2.dir/Metadata.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\CLionProjects\Projecto1-Intento2\Metadata.cpp > CMakeFiles\Projecto1_Intento2.dir\Metadata.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\Documents\Github\Projecto1-Intento2\Metadata.cpp > CMakeFiles\Projecto1_Intento2.dir\Metadata.cpp.i
 
 CMakeFiles/Projecto1_Intento2.dir/Metadata.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Projecto1_Intento2.dir/Metadata.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\CLionProjects\Projecto1-Intento2\Metadata.cpp -o CMakeFiles\Projecto1_Intento2.dir\Metadata.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\Documents\Github\Projecto1-Intento2\Metadata.cpp -o CMakeFiles\Projecto1_Intento2.dir\Metadata.cpp.s
 
 CMakeFiles/Projecto1_Intento2.dir/Metadata.cpp.obj.requires:
 
@@ -202,16 +202,16 @@ CMakeFiles/Projecto1_Intento2.dir/Metadata.cpp.obj.provides.build: CMakeFiles/Pr
 
 CMakeFiles/Projecto1_Intento2.dir/Data_Block.cpp.obj: CMakeFiles/Projecto1_Intento2.dir/flags.make
 CMakeFiles/Projecto1_Intento2.dir/Data_Block.cpp.obj: ../Data_Block.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\CLionProjects\Projecto1-Intento2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Projecto1_Intento2.dir/Data_Block.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto1_Intento2.dir\Data_Block.cpp.obj -c C:\Users\Carlos\CLionProjects\Projecto1-Intento2\Data_Block.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\Documents\Github\Projecto1-Intento2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Projecto1_Intento2.dir/Data_Block.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto1_Intento2.dir\Data_Block.cpp.obj -c C:\Users\Carlos\Documents\Github\Projecto1-Intento2\Data_Block.cpp
 
 CMakeFiles/Projecto1_Intento2.dir/Data_Block.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Projecto1_Intento2.dir/Data_Block.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\CLionProjects\Projecto1-Intento2\Data_Block.cpp > CMakeFiles\Projecto1_Intento2.dir\Data_Block.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\Documents\Github\Projecto1-Intento2\Data_Block.cpp > CMakeFiles\Projecto1_Intento2.dir\Data_Block.cpp.i
 
 CMakeFiles/Projecto1_Intento2.dir/Data_Block.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Projecto1_Intento2.dir/Data_Block.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\CLionProjects\Projecto1-Intento2\Data_Block.cpp -o CMakeFiles\Projecto1_Intento2.dir\Data_Block.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\Documents\Github\Projecto1-Intento2\Data_Block.cpp -o CMakeFiles\Projecto1_Intento2.dir\Data_Block.cpp.s
 
 CMakeFiles/Projecto1_Intento2.dir/Data_Block.cpp.obj.requires:
 
@@ -248,7 +248,7 @@ Projecto1_Intento2.exe: CMakeFiles/Projecto1_Intento2.dir/build.make
 Projecto1_Intento2.exe: CMakeFiles/Projecto1_Intento2.dir/linklibs.rsp
 Projecto1_Intento2.exe: CMakeFiles/Projecto1_Intento2.dir/objects1.rsp
 Projecto1_Intento2.exe: CMakeFiles/Projecto1_Intento2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Carlos\CLionProjects\Projecto1-Intento2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable Projecto1_Intento2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Carlos\Documents\Github\Projecto1-Intento2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable Projecto1_Intento2.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Projecto1_Intento2.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -271,6 +271,6 @@ CMakeFiles/Projecto1_Intento2.dir/clean:
 .PHONY : CMakeFiles/Projecto1_Intento2.dir/clean
 
 CMakeFiles/Projecto1_Intento2.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Carlos\CLionProjects\Projecto1-Intento2 C:\Users\Carlos\CLionProjects\Projecto1-Intento2 C:\Users\Carlos\CLionProjects\Projecto1-Intento2\cmake-build-debug C:\Users\Carlos\CLionProjects\Projecto1-Intento2\cmake-build-debug C:\Users\Carlos\CLionProjects\Projecto1-Intento2\cmake-build-debug\CMakeFiles\Projecto1_Intento2.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Carlos\Documents\Github\Projecto1-Intento2 C:\Users\Carlos\Documents\Github\Projecto1-Intento2 C:\Users\Carlos\Documents\Github\Projecto1-Intento2\cmake-build-debug C:\Users\Carlos\Documents\Github\Projecto1-Intento2\cmake-build-debug C:\Users\Carlos\Documents\Github\Projecto1-Intento2\cmake-build-debug\CMakeFiles\Projecto1_Intento2.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Projecto1_Intento2.dir/depend
 
